@@ -9,7 +9,7 @@ With JSON body data:
 
 ```json
 {
-    fileContents: "[file base64 here]"
+    "fileContents": "[file base64 here]"
 }
 ```
 
@@ -19,7 +19,7 @@ Returns JSON like this:
 
 ```json
 {
-	"filePath": "[filepath here, RELATIVE to server base]"
+    "filePath": "[filepath here, RELATIVE to server base]"
 }
 ```
 
