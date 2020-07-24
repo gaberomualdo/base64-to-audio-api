@@ -1,0 +1,1 @@
+File used to ensure files/ directory is added to Git even if it has no contents.
